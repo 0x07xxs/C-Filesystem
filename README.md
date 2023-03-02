@@ -7,3 +7,4 @@ Documentation
 "r" - read a file you have to specify the file to read
 "u" - update the file you want to specify along with the contents you want to input in that file
 "d" - deletes the file you specify with a text prompt making sure if you want to delete it just in case (mistakes happen)
+ 
